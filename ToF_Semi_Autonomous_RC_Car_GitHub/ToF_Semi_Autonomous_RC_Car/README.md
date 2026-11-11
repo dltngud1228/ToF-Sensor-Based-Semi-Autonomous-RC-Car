@@ -133,3 +133,8 @@ Arduino IDE 라이브러리 관리자에서 다음 라이브러리를 설치합�
 - 이수형
 - 한국공학대학교 메카트로닉스공학부
 - CIR 하계 세미나 프로젝트
+
+## 시연 영상
+https://youtube.com/shorts/MMLQ6tpExpc
+https://youtube.com/shorts/8xmzzZUi4Yo
+
